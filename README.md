@@ -1,5 +1,5 @@
 # Fitpeo Assignment Dashboard with using ReactJS and Tailwind CSS
-# Basic Dashboard Layout 
+# Basic UI Dashboard Layout 
 
 **To run application follow these steps**
 
